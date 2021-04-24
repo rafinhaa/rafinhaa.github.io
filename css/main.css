@@ -5,12 +5,12 @@ html {
 }
 
 ::-moz-selection {
-    background: #b3d4fc;
+    background:rgb(243, 207, 48);
     text-shadow: none;
 }
 
 ::selection {
-    background: #b3d4fc;
+    background: rgb(243, 207, 48);
     text-shadow: none;
 }
 
@@ -33,7 +33,7 @@ video {
 html {
     height: 100%;
     font-family: 'Lato';
-    background-color: #f2f2f7;
+    background-color: #222;
 }
 
 body {
@@ -68,7 +68,7 @@ main {
 }
 
 h1 {
-    color: hsl(358, 77%, 63%);
+    color: hsl(224, 77%, 63%);
     font-weight: 800;
     word-spacing: 0.4ch;
     font-size: 2.4em;
@@ -96,13 +96,13 @@ p {
 }
 
 a {
-    color: hsl(358, 77%, 63%);
+    color: hsl(224, 77%, 63%);
     text-decoration: none;
     display: inline-block;
     margin-right: 1em;
     border-bottom: solid;
     border-width: 1px;
-    border-color: hsl(358, 67%, 80%);
+    border-color: hsl(224, 67%, 80%);
 }
 
 
